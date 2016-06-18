@@ -1,0 +1,2 @@
+[alias]
+    picture = !git add . && git commit -m '图片更新' && git push github master
